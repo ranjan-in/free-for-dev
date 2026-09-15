@@ -186,6 +186,8 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * [Sign](https://zoho.com/sign) - Paperless Signatures
     * [Surveys](https://zoho.com/surveys) - Online Surveys
      * [Bookings](https://zoho.com/bookings) - Appointment Scheduling
+   
+  * * [cpanelfree.com](https://cpanelfree.com/) - Free web hosting with cPanel, PHP, MySQL, free SSL certificates, Softaculous 1-click WordPress installer, and unlimited bandwidth with no ads or credit card required.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
